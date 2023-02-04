@@ -3,11 +3,13 @@ A simple python tool which you can use to shill your message in multiple discord
 
 Download and install Python, then run the following in cmd:
 ```
-pip install requests
+1. pip install requests
+2. pip install colorama
 ```
 or
 ```
-py -m pip install requests
+1. py -m pip install requests
+2. py -m pip install colorama
 ```
 
 
