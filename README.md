@@ -7,7 +7,9 @@ pip install requests
 ```
 or
 ```
-py -m pip install requests```
+py -m pip install requests
+
+```
 
 
 Configure your channel IDs, message and token in the data folder. 
