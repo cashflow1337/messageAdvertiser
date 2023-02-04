@@ -8,7 +8,6 @@ pip install requests
 or
 ```
 py -m pip install requests
-
 ```
 
 
